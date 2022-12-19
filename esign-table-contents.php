@@ -13,7 +13,7 @@ get_header(); ?>
     width:100% !important;
 }
 .esign-toc-list li{
-    list-style-type: none !important;
+    list-style-type: none ;
 }
 
 .esign-flex-container {
